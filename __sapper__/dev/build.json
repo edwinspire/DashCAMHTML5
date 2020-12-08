@@ -1,0 +1,46 @@
+{
+  "bundler": "webpack",
+  "shimport": null,
+  "assets": {
+    "about": "9028ee1b15ccf02ed2fe/about.about.js",
+    "blog": "9028ee1b15ccf02ed2fe/blog.blog.js",
+    "blog_$slug": "9028ee1b15ccf02ed2fe/blog_$slug.blog_$slug.js",
+    "contact": "9028ee1b15ccf02ed2fe/contact.contact.js",
+    "contacts": "9028ee1b15ccf02ed2fe/contacts.contacts.js",
+    "contact~contacts~endpoints~regularizar_inventarios~vehicle~vehicles": "9028ee1b15ccf02ed2fe/contact~contacts~endpoints~regularizar_inventarios~vehicle~vehicles.contact~contacts~endpoints~regularizar_inventarios~vehicle~vehicles.js",
+    "contact~contacts~vehicle": "9028ee1b15ccf02ed2fe/contact~contacts~vehicle.contact~contacts~vehicle.js",
+    "contact~system~vehicle": "9028ee1b15ccf02ed2fe/contact~system~vehicle.contact~system~vehicle.js",
+    "endpoints": "9028ee1b15ccf02ed2fe/endpoints.endpoints.js",
+    "endpoints~monitor~system": "9028ee1b15ccf02ed2fe/endpoints~monitor~system.endpoints~monitor~system.js",
+    "endpoints~system": "9028ee1b15ccf02ed2fe/endpoints~system.endpoints~system.js",
+    "home": "9028ee1b15ccf02ed2fe/home.home.js",
+    "home~monitor~system": "9028ee1b15ccf02ed2fe/home~monitor~system.home~monitor~system.js",
+    "index": "9028ee1b15ccf02ed2fe/index.index.js",
+    "main": "9028ee1b15ccf02ed2fe/main.js",
+    "monitor": "9028ee1b15ccf02ed2fe/monitor.monitor.js",
+    "register": "9028ee1b15ccf02ed2fe/register.register.js",
+    "regularizar_inventarios": "9028ee1b15ccf02ed2fe/regularizar_inventarios.regularizar_inventarios.js",
+    "system": "9028ee1b15ccf02ed2fe/system.system.js",
+    "vehicle": "9028ee1b15ccf02ed2fe/vehicle.vehicle.js",
+    "vehicles": "9028ee1b15ccf02ed2fe/vehicles.vehicles.js",
+    "vendors~endpoints~monitor~system": "9028ee1b15ccf02ed2fe/vendors~endpoints~monitor~system.vendors~endpoints~monitor~system.js"
+  },
+  "css": {
+    "chunks": {
+      "index.svelte": [],
+      "regularizar_inventarios/index.svelte": [],
+      "endpoints/index.svelte": [],
+      "contacts/index.svelte": [],
+      "register/index.svelte": [],
+      "vehicles/index.svelte": [],
+      "contact/index.svelte": [],
+      "monitor/index.svelte": [],
+      "vehicle/index.svelte": [],
+      "system/index.svelte": [],
+      "about.svelte": [],
+      "blog/index.svelte": [],
+      "blog/[slug].svelte": [],
+      "home/index.svelte": []
+    }
+  }
+}
